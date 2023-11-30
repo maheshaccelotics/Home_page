@@ -1,0 +1,135 @@
+*{
+    padding: 0px;
+    border: 0px;
+    display: flexbox;
+}
+
+.solution_head{
+    margin: 150px;
+}
+.about{
+    display: flex;
+}
+.development{
+    margin: 150px;
+}
+.big_data{
+    margin:60px;
+    margin-left: 260px;
+    padding: 2px;
+    font-size: x-small;
+    
+}
+.web{
+    margin:60px;
+    margin-left: 900px;
+    padding: 2px;
+    font-size: x-small;
+}
+.mobile{
+    margin:60px;
+    margin-left: 260px;
+    padding: 2px;
+    font-size: x-small;
+}
+    
+.iot{
+    margin:60px;
+    margin-left: 900px;
+    padding: 2px;
+    font-size: x-small;
+    
+}
+.machine_learning{
+    margin:60px;
+    margin-left: 260px;
+    margin-right: 150px;
+    padding: 2px;
+    font-size: x-small;
+}
+    
+.ar{
+    margin:60px;
+    margin-left: 900px;
+    padding: 2px;
+    font-size: x-small;
+}
+
+.footer{
+    display: flex;
+    list-style-type: none;
+    text-decoration: none;
+    margin: 150px;
+    font-size: 15px;
+    font-weight: 300;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#list1{
+    margin-left:90px;
+    padding-top:0px;
+    margin-top:2px;
+    list-style-type:none;
+}
+
+#list2{
+    margin-left:45px;
+    margin-top:2px ;
+}
+
+#list3{
+    margin-left:45px;
+    margin-top:2px ;
+}
+
+#list4{
+    margin-left: 45px;
+    margin-top:2px ;
+}
+
+#list5{
+    margin-left: 45px;
+}
+
+.head1{
+    margin-left: 40px;
+    margin-bottom: 2px;
+    font-size: medium;
+}
+
+.head2{
+    margin-left: 38px;
+    margin-bottom: 2px;
+    font-size: medium;
+}
+
+.head3{
+    margin-left: 38px;
+    margin-bottom: 2px;
+    font-size: medium;
+}
+
+.head4{
+    margin-left: 38px;
+    margin-bottom: 2px;
+    font-size: medium;
+}
+
+.head5{
+    margin-left: 38px;
+    font-size: medium;
+}
+
+.footer li{
+    list-style: none;
+}
+
+.about{
+    display: flex;
+    list-style-type: none;
+    text-decoration: none;
+    margin: 150px;
+    font-size: 15px;
+    font-weight: 300;
+    font-family: 'Times New Roman', Times, serif;
+}

@@ -1,0 +1,15 @@
+.welcome{
+    justify-content: center;
+    text-align: center;
+}
+
+.mission{
+    justify-content: center;
+    text-align: center;
+}
+
+.message{
+    justify-content:center ;
+    text-align: start;
+    margin-left: 600px;
+}

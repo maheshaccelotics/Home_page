@@ -1,0 +1,47 @@
+.navbar{
+    background-color: rgb(206, 196, 255);
+    text-decoration: none;
+    border-radius: 15px;
+    margin-top: 50px;
+    margin-left:850px;
+    margin-right: 100px;
+    justify-content: center;
+}
+
+.navbar ul{
+    overflow: auto;
+    margin: 20px;
+    text-align: center;
+}
+
+.navbar li{
+    margin-top: 10px;
+    margin-bottom: 12px;
+    float: left;
+    list-style: none;
+    padding: 3px,3px;
+}
+
+.navbar li a{
+    padding: 23px,13px;
+    margin: 12px;
+    text-decoration: none;   
+}
+
+.head_content{
+    margin-left: 120px;
+    margin-top: 60px;
+    margin-bottom: 0px;
+}
+
+.software_passage{
+    margin-top: 0px;
+    margin-left: 20px;
+    
+}
+
+main_head{
+    margin-bottom:0px;
+    margin-top:0px;
+    font-size: large;
+}

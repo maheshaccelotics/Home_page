@@ -1,0 +1,153 @@
+.bg-container {
+    background-size: cover;
+    background-color: #ffffff;
+}
+
+.image-container {
+    background-image: url("https://res.cloudinary.com/argyle-media/image/upload/v1669731800/vacancies/software_engineer_760x330.jpg");
+    width: 100%;
+    background-size: cover;
+}
+
+.techno-heading {
+    margin-left: 30px;
+    margin-bottom: 0;
+    color: #ffffff;
+}
+
+.techno-para {
+    margin-left: 30px;
+    color: #ffffff;
+}
+
+.text-container {
+    padding: 20px;
+    margin-left: 60px;
+}
+
+.product-title {
+    color: #ffffff;
+}
+
+.enterprise-title {
+    color: #ffffff;
+}
+
+.para-content {
+    color: #ffffff;
+}
+
+.solutions-container {
+    text-align: center;
+}
+
+.our-ent-heading {
+    font-size: 40px;
+    font-family: serif;
+    margin-top: 80px;
+}
+
+.software-para {
+    font-size: 20px;
+    margin: 20px;
+}
+
+.latest-tech-container {
+    text-align: center;
+}
+
+.latest-heading {
+    font-size: 40px;
+    font-family: serif;
+    margin-top: 80px;
+}
+
+.latest-tech-para {
+    font-size: 20px;
+    margin: 20px;
+}
+
+.row-cards {
+    margin: 10px;
+    text-align: center;
+}
+
+.services {
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: bold;
+    margin: 10px;
+}
+
+.Technologies {
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: bold;
+    margin: 10px;
+}
+
+.platforms {
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: bold;
+    margin: 10px;
+}
+
+.company {
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: bold;
+    margin: 10px;
+}
+
+.contacts {
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: bold;
+    margin: 10px;
+}
+
+.hover-bg-container {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0e-_9LqjP1sGwoLaB_v0Hdo1aA8R1Klc1SA&usqp=CAU");
+    background-size: cover;
+    width: 25vw;
+    height: 80vh;
+    text-align: center;
+    font-family: "Roboto";
+    font-size: 21px;
+    font-weight: bold;
+    display: flex;
+}
+
+.hover-bg-container1 {
+    background-image: url("https://img.freepik.com/free-vector/api-concept-illustration_114360-9822.jpg?w=740&t=st=1699990383~exp=1699990983~hmac=47bea03785998cfa8273a8c52166eff4f5d4d253ef2c1d1b2d2e2a4d1df72b33");
+    background-size: cover;
+    width: 25vw;
+    height: 80vh;
+    text-align: center;
+    font-family: "Roboto";
+    font-size: 21px;
+    font-weight: bold;
+}
+
+.hover-bg-container2 {
+    background-image: url("https://img.freepik.com/free-vector/appointment-booking-with-man-smartphone_23-2148554945.jpg?w=740&t=st=1699990533~exp=1699991133~hmac=867fdc538c5491085038452746ad9e2e702f9927f63d557c072bca155d1c23e9");
+    background-size: cover;
+    width: 25vw;
+    height: 80vh;
+    text-align: center;
+    font-family: "Roboto";
+    font-size: 21px;
+    font-weight: bold;
+}
+
+.hover-bg-container3 {
+    background-image: url("https://img.freepik.com/premium-vector/hr-personnel-recruiting-hiring-concept_70921-385.jpg?w=740");
+    background-size: cover;
+    width: 25vw;
+    height: 80vh;
+    text-align: center;
+    font-family: "Roboto";
+    font-size: 21px;
+    font-weight: bold;
+}
